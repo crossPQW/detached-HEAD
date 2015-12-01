@@ -49,7 +49,7 @@ to do so with:
 来删除temp分支. 
 
 *git是一个很优秀的版本控制工具,利用得当能让我们在团队协作时候如鱼得水,但是万一有操作失误,也会让很多不熟悉git命令的人各种发愁,下面贴一个git命令大全,非常实用*
-
+![image](https://github.com/crossPQW/detached-HEAD/blob/master/95_80_cbcb426e1ba4faf.jpg)
 
 
 
